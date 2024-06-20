@@ -1,5 +1,7 @@
 Class SampleProgram{
         public static void main(String q[]){
                 System.out.println("Welcome to infoane");
+
+                System.out.println("welcome to kovilpatti infoane");
         }
 }
