@@ -3,5 +3,7 @@ Class SampleProgram{
                 System.out.println("Welcome to infoane");
 
                 System.out.println("welcome to kovilpatti infoane");
+        
+                System.out.println("Hi");      
         }
 }
